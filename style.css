@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #686de0;
+  background-color: #5c5f9e;
   font-family: 'Roboto', sans-serif;
   display: flex;
   flex-direction: column;
@@ -52,6 +52,9 @@ h3 {
   cursor: pointer;
 }
 
+.btn:hover{
+  background-color: #8a5bc0;
+}
 .btn:active {
   transform: scale(0.98);
 }
